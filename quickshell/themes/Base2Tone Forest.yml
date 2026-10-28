@@ -1,0 +1,29 @@
+---
+name: 'Base2Tone Forest'
+author: ''             # 'AUTHOR NAME (http://WEBSITE.com)'
+author_name: ''
+author_url: ''
+variant: 'dark'            # dark or light
+
+color_01: '#2A2D2A'    # Black (Host)
+color_02: '#5C705C'    # Red (Syntax string)
+color_03: '#BFD454'    # Green (Command)
+color_04: '#E5FB79'    # Yellow (Command second)
+color_05: '#687D68'    # Blue (Path)
+color_06: '#BFD454'    # Magenta (Syntax var)
+color_07: '#8FAE8F'    # Cyan (Prompt)
+color_08: '#A1B5A1'    # White
+
+color_09: '#535F53'    # Bright Black
+color_10: '#CBE25A'    # Bright Red (Command error)
+color_11: '#353B35'    # Bright Green (Exec)
+color_12: '#485148'    # Bright Yellow
+color_13: '#5E6E5E'    # Bright Blue (Folder)
+color_14: '#C8E4C8'    # Bright Magenta
+color_15: '#B1C44F'    # Bright Cyan
+color_16: '#F0FFF0'    # Bright White
+
+background: '#2A2D2A'  # Background
+foreground: '#A1B5A1'  # Foreground (Text)
+
+cursor: '#818B4B'      # Cursor

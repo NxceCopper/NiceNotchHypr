@@ -1,0 +1,29 @@
+---
+name: 'Molokai'
+author: ''             # 'AUTHOR NAME (http://WEBSITE.com)'
+author_name: ''
+author_url: ''
+variant: 'dark'            # dark or light
+
+color_01: '#121212'    # Black (Host)
+color_02: '#FA2573'    # Red (Syntax string)
+color_03: '#98E123'    # Green (Command)
+color_04: '#DFD460'    # Yellow (Command second)
+color_05: '#1080D0'    # Blue (Path)
+color_06: '#8700FF'    # Magenta (Syntax var)
+color_07: '#43A8D0'    # Cyan (Prompt)
+color_08: '#BBBBBB'    # White
+
+color_09: '#555555'    # Bright Black
+color_10: '#F6669D'    # Bright Red (Command error)
+color_11: '#B1E05F'    # Bright Green (Exec)
+color_12: '#FFF26D'    # Bright Yellow
+color_13: '#00AFFF'    # Bright Blue (Folder)
+color_14: '#AF87FF'    # Bright Magenta
+color_15: '#51CEFF'    # Bright Cyan
+color_16: '#FFFFFF'    # Bright White
+
+background: '#121212'  # Background
+foreground: '#BBBBBB'  # Foreground (Text)
+
+cursor: '#BBBBBB'      # Cursor

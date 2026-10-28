@@ -1,0 +1,29 @@
+---
+name: 'Base2Tone Cave'
+author: ''             # 'AUTHOR NAME (http://WEBSITE.com)'
+author_name: ''
+author_url: ''
+variant: 'dark'            # dark or light
+
+color_01: '#222021'    # Black (Host)
+color_02: '#936C7A'    # Red (Syntax string)
+color_03: '#CCA133'    # Green (Command)
+color_04: '#FFCC4D'    # Yellow (Command second)
+color_05: '#9C818B'    # Blue (Path)
+color_06: '#CCA133'    # Magenta (Syntax var)
+color_07: '#D27998'    # Cyan (Prompt)
+color_08: '#9F999B'    # White
+
+color_09: '#635F60'    # Bright Black
+color_10: '#DDAF3C'    # Bright Red (Command error)
+color_11: '#2F2D2E'    # Bright Green (Exec)
+color_12: '#565254'    # Bright Yellow
+color_13: '#706B6D'    # Bright Blue (Folder)
+color_14: '#F0A8C1'    # Bright Magenta
+color_15: '#C39622'    # Bright Cyan
+color_16: '#FFEBF2'    # Bright White
+
+background: '#222021'  # Background
+foreground: '#9F999B'  # Foreground (Text)
+
+cursor: '#996E00'      # Cursor

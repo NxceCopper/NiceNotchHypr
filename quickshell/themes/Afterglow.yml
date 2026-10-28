@@ -1,0 +1,29 @@
+---
+name: 'Afterglow'
+author: 'yabatadesign (https://github.com/YabataDesign/afterglow-itermcolors)'
+author_name: 'yabatadesign'
+author_url: 'https://github.com/YabataDesign/afterglow-itermcolors'
+variant: 'dark'            # dark or light
+
+color_01: '#151515'    # Black (Host)
+color_02: '#AC4142'    # Red (Syntax string)
+color_03: '#7E8E50'    # Green (Command)
+color_04: '#E5B567'    # Yellow (Command second)
+color_05: '#6C99BB'    # Blue (Path)
+color_06: '#9F4E85'    # Magenta (Syntax var)
+color_07: '#7DD6CF'    # Cyan (Prompt)
+color_08: '#D0D0D0'    # White
+
+color_09: '#505050'    # Bright Black
+color_10: '#AC4142'    # Bright Red (Command error)
+color_11: '#7E8E50'    # Bright Green (Exec)
+color_12: '#E5B567'    # Bright Yellow
+color_13: '#6C99BB'    # Bright Blue (Folder)
+color_14: '#9F4E85'    # Bright Magenta
+color_15: '#7DD6CF'    # Bright Cyan
+color_16: '#F5F5F5'    # Bright White
+
+background: '#212121'  # Background
+foreground: '#D0D0D0'  # Foreground (Text)
+
+cursor: '#D0D0D0'      # Cursor

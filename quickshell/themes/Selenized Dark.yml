@@ -1,0 +1,29 @@
+---
+name: 'Selenized Dark'
+author: 'jan-warchol (https://github.com/jan-warchol)'
+author_name: 'jan-warchol'
+author_url: 'https://github.com/jan-warchol'
+variant: 'dark'            # dark or light
+
+color_01: '#184956'    # Black (Host)
+color_02: '#FA5750'    # Red (Syntax string)
+color_03: '#75B938'    # Green (Command)
+color_04: '#DBB32D'    # Yellow (Command second)
+color_05: '#4695F7'    # Blue (Path)
+color_06: '#F275BE'    # Magenta (Syntax var)
+color_07: '#41C7B9'    # Cyan (Prompt)
+color_08: '#ADBCBC'    # White
+
+color_09: '#72898F'    # Bright Black
+color_10: '#FF665C'    # Bright Red (Command error)
+color_11: '#84C747'    # Bright Green (Exec)
+color_12: '#EBC13D'    # Bright Yellow
+color_13: '#58A3FF'    # Bright Blue (Folder)
+color_14: '#FF84CD'    # Bright Magenta
+color_15: '#53D6C7'    # Bright Cyan
+color_16: '#CAD8D9'    # Bright White
+
+background: '#103C48'  # Background
+foreground: '#ADBCBC'  # Foreground (Text)
+
+cursor: '#ADBCBC'      # Cursor

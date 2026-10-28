@@ -1,0 +1,29 @@
+---
+name: 'Gogh'
+author: 'Gogh (https://github.com/Gogh-Co/Gogh)'
+author_name: 'Gogh'
+author_url: 'https://github.com/Gogh-Co/Gogh'
+variant: 'dark'            # dark or light
+
+color_01: '#243342'    # Black (Host)
+color_02: '#C54133'    # Red (Syntax string)
+color_03: '#27AE60'    # Green (Command)
+color_04: '#EDB20A'    # Yellow (Command second)
+color_05: '#2479D0'    # Blue (Path)
+color_06: '#7D3EA0'    # Magenta (Syntax var)
+color_07: '#1D8579'    # Cyan (Prompt)
+color_08: '#C9CCCD'    # White
+
+color_09: '#34495E'    # Bright Black
+color_10: '#E74C3C'    # Bright Red (Command error)
+color_11: '#2ECC71'    # Bright Green (Exec)
+color_12: '#F1C40F'    # Bright Yellow
+color_13: '#3498DB'    # Bright Blue (Folder)
+color_14: '#9B59B6'    # Bright Magenta
+color_15: '#2AA198'    # Bright Cyan
+color_16: '#ECF0F1'    # Bright White
+
+background: '#0D1926'  # Background
+foreground: '#ECF0F1'  # Foreground (Text)
+
+cursor: '#ECF0F1'      # Cursor

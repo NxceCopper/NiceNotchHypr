@@ -1,0 +1,29 @@
+---
+name: 'Base4Tone Classic E'
+author: ''             # 'AUTHOR NAME (http://WEBSITE.com)'
+author_name: ''
+author_url: ''
+variant: 'dark'            # dark or light
+
+color_01: '#21211C'    # Black (Host)
+color_02: '#088EA0'    # Red (Syntax string)
+color_03: '#C27905'    # Green (Command)
+color_04: '#E8A02C'    # Yellow (Command second)
+color_05: '#B9CF17'    # Blue (Path)
+color_06: '#5CBA21'    # Magenta (Syntax var)
+color_07: '#DC9118'    # Cyan (Prompt)
+color_08: '#EDEEE8'    # White
+
+color_09: '#0D0D07'    # Bright Black
+color_10: '#25BCD0'    # Bright Red (Command error)
+color_11: '#EAA83E'    # Bright Green (Exec)
+color_12: '#F3CD91'    # Bright Yellow
+color_13: '#EEF6B1'    # Bright Blue (Folder)
+color_14: '#69D425'    # Bright Magenta
+color_15: '#E6F28C'    # Bright Cyan
+color_16: '#F9F9F6'    # Bright White
+
+background: '#21211C'  # Background
+foreground: '#A0A290'  # Foreground (Text)
+
+cursor: '#877D6E'      # Cursor

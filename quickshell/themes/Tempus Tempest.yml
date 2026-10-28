@@ -1,0 +1,29 @@
+---
+name: 'Tempus Tempest'
+author: 'Protesilaos Stavrou (https://protesilaos.com)'             # 'AUTHOR NAME (http://WEBSITE.com)'
+author_name: 'Protesilaos Stavrou'
+author_url: 'https://protesilaos.com'
+variant: 'dark'            # dark or light
+
+color_01: '#282B2B'    # Black (Host)
+color_02: '#CFC80A'    # Red (Syntax string)
+color_03: '#7AD97A'    # Green (Command)
+color_04: '#BFCC4A'    # Yellow (Command second)
+color_05: '#60D7CD'    # Blue (Path)
+color_06: '#C5C4AF'    # Magenta (Syntax var)
+color_07: '#8BD0BF'    # Cyan (Prompt)
+color_08: '#B0C8CA'    # White
+
+color_09: '#323535'    # Bright Black
+color_10: '#D1D933'    # Bright Red (Command error)
+color_11: '#99E299'    # Bright Green (Exec)
+color_12: '#BBDE4F'    # Bright Yellow
+color_13: '#74E4CD'    # Bright Blue (Folder)
+color_14: '#D2D4AA'    # Bright Magenta
+color_15: '#9BDFC4'    # Bright Cyan
+color_16: '#B6E0CA'    # Bright White
+
+background: '#282B2B'  # Background
+foreground: '#B6E0CA'  # Foreground (Text)
+
+cursor: '#B6E0CA'      # Cursor

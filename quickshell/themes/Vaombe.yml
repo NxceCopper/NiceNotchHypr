@@ -1,0 +1,29 @@
+---
+name: 'Vaombe'
+author: 'Daniel Perez (https://www.github.com/sysaloe)'
+author_name: 'Daniel Perez'
+author_url: 'https://www.github.com/sysaloe'
+variant: 'dark'
+
+color_01: '#111413'
+color_02: '#8F3232'
+color_03: '#3B5C3B'
+color_04: '#7A6322'
+color_05: '#28405C'
+color_06: '#46285C'
+color_07: '#346666'
+color_08: '#D1D1D1'
+
+color_09: '#212927'
+color_10: '#B84242'
+color_11: '#57A355'
+color_12: '#DBBB60'
+color_13: '#5183B8'
+color_14: '#935FB8'
+color_15: '#51B8B0'
+color_16: '#F5FFFD'
+
+background: '#010A08'
+foreground: '#F5FFFD'
+
+cursor: '#9DF5E2'

@@ -1,0 +1,29 @@
+---
+name: 'Tempus Past'
+author: 'Protesilaos Stavrou (https://protesilaos.com)'             # 'AUTHOR NAME (http://WEBSITE.com)'
+author_name: 'Protesilaos Stavrou'
+author_url: 'https://protesilaos.com'
+variant: 'light'            # dark or light
+
+color_01: '#53545B'    # Black (Host)
+color_02: '#C00C50'    # Red (Syntax string)
+color_03: '#0A7040'    # Green (Command)
+color_04: '#A6403A'    # Yellow (Command second)
+color_05: '#1763AA'    # Blue (Path)
+color_06: '#B02874'    # Magenta (Syntax var)
+color_07: '#096A83'    # Cyan (Prompt)
+color_08: '#EAE2DE'    # White
+
+color_09: '#80565D'    # Bright Black
+color_10: '#BD3133'    # Bright Red (Command error)
+color_11: '#337243'    # Bright Green (Exec)
+color_12: '#8D554A'    # Bright Yellow
+color_13: '#5559BB'    # Bright Blue (Folder)
+color_14: '#B022A7'    # Bright Magenta
+color_15: '#07707A'    # Bright Cyan
+color_16: '#F3F2F4'    # Bright White
+
+background: '#F3F2F4'  # Background
+foreground: '#53545B'  # Foreground (Text)
+
+cursor: '#53545B'      # Cursor

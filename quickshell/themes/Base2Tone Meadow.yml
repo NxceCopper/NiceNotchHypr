@@ -1,0 +1,29 @@
+---
+name: 'Base2Tone Meadow'
+author: ''             # 'AUTHOR NAME (http://WEBSITE.com)'
+author_name: ''
+author_url: ''
+variant: 'dark'            # dark or light
+
+color_01: '#192834'    # Black (Host)
+color_02: '#277FBE'    # Red (Syntax string)
+color_03: '#80BF40'    # Green (Command)
+color_04: '#A6F655'    # Yellow (Command second)
+color_05: '#4299D7'    # Blue (Path)
+color_06: '#80BF40'    # Magenta (Syntax var)
+color_07: '#47ADF5'    # Cyan (Prompt)
+color_08: '#7B9EB7'    # White
+
+color_09: '#3D5E76'    # Bright Black
+color_10: '#8CDD3C'    # Bright Red (Command error)
+color_11: '#223644'    # Bright Green (Exec)
+color_12: '#335166'    # Bright Yellow
+color_13: '#466B86'    # Bright Blue (Folder)
+color_14: '#AFDDFE'    # Bright Magenta
+color_15: '#73B234'    # Bright Cyan
+color_16: '#D1ECFF'    # Bright White
+
+background: '#192834'  # Background
+foreground: '#7B9EB7'  # Foreground (Text)
+
+cursor: '#4D8217'      # Cursor

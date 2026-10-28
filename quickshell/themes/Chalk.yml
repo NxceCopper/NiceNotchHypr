@@ -1,0 +1,29 @@
+---
+name: 'Chalk'
+author: 'achalv (https://github.com/achalv/chalk)'
+author_name: 'achalv'
+author_url: 'https://github.com/achalv/chalk'
+variant: 'dark'            # dark or light
+
+color_01: '#7D8B8F'    # Black (Host)
+color_02: '#B23A52'    # Red (Syntax string)
+color_03: '#789B6A'    # Green (Command)
+color_04: '#B9AC4A'    # Yellow (Command second)
+color_05: '#2A7FAC'    # Blue (Path)
+color_06: '#BD4F5A'    # Magenta (Syntax var)
+color_07: '#44A799'    # Cyan (Prompt)
+color_08: '#D2D8D9'    # White
+
+color_09: '#888888'    # Bright Black
+color_10: '#F24840'    # Bright Red (Command error)
+color_11: '#80C470'    # Bright Green (Exec)
+color_12: '#FFEB62'    # Bright Yellow
+color_13: '#4196FF'    # Bright Blue (Folder)
+color_14: '#FC5275'    # Bright Magenta
+color_15: '#53CDBD'    # Bright Cyan
+color_16: '#D2D8D9'    # Bright White
+
+background: '#2B2D2E'  # Background
+foreground: '#D2D8D9'  # Foreground (Text)
+
+cursor: '#708284'      # Cursor

@@ -1,0 +1,29 @@
+---
+name: 'Base4Tone Classic C'
+author: ''             # 'AUTHOR NAME (http://WEBSITE.com)'
+author_name: ''
+author_url: ''
+variant: 'dark'            # dark or light
+
+color_01: '#221F1C'    # Black (Host)
+color_02: '#049A61'    # Red (Syntax string)
+color_03: '#DE5745'    # Green (Command)
+color_04: '#F18C7E'    # Yellow (Command second)
+color_05: '#E6971A'    # Blue (Path)
+color_06: '#ADC115'    # Magenta (Syntax var)
+color_07: '#E97263'    # Cyan (Prompt)
+color_08: '#EEEBE8'    # White
+
+color_09: '#0D0B07'    # Bright Black
+color_10: '#16CA85'    # Bright Red (Command error)
+color_11: '#F39C91'    # Bright Green (Exec)
+color_12: '#FBBAB1'    # Bright Yellow
+color_13: '#F5D8A8'    # Bright Blue (Folder)
+color_14: '#C5DC18'    # Bright Magenta
+color_15: '#F3CD91'    # Bright Cyan
+color_16: '#F9F8F6'    # Bright White
+
+background: '#221F1C'  # Background
+foreground: '#A39B8F'  # Foreground (Text)
+
+cursor: '#847371'      # Cursor

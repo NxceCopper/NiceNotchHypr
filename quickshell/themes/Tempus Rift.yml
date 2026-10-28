@@ -1,0 +1,29 @@
+---
+name: 'Tempus Rift'
+author: 'Protesilaos Stavrou (https://protesilaos.com)'             # 'AUTHOR NAME (http://WEBSITE.com)'
+author_name: 'Protesilaos Stavrou'
+author_url: 'https://protesilaos.com'
+variant: 'dark'            # dark or light
+
+color_01: '#162C22'    # Black (Host)
+color_02: '#C19904'    # Red (Syntax string)
+color_03: '#34B534'    # Green (Command)
+color_04: '#7FAD00'    # Yellow (Command second)
+color_05: '#30AEB0'    # Blue (Path)
+color_06: '#C8954C'    # Magenta (Syntax var)
+color_07: '#5FAD8F'    # Cyan (Prompt)
+color_08: '#AB9AA9'    # White
+
+color_09: '#283431'    # Bright Black
+color_10: '#D2A634'    # Bright Red (Command error)
+color_11: '#6AC134'    # Bright Green (Exec)
+color_12: '#82BD00'    # Bright Yellow
+color_13: '#56BDAD'    # Bright Blue (Folder)
+color_14: '#CCA0BA'    # Bright Magenta
+color_15: '#10C480'    # Bright Cyan
+color_16: '#BBBCBC'    # Bright White
+
+background: '#162C22'  # Background
+foreground: '#BBBCBC'  # Foreground (Text)
+
+cursor: '#BBBCBC'      # Cursor

@@ -1,0 +1,29 @@
+---
+name: 'Base2Tone Field'
+author: ''             # 'AUTHOR NAME (http://WEBSITE.com)'
+author_name: ''
+author_url: ''
+variant: 'dark'            # dark or light
+
+color_01: '#18201E'    # Black (Host)
+color_02: '#0FBDA0'    # Red (Syntax string)
+color_03: '#3BE381'    # Green (Command)
+color_04: '#85FFB8'    # Yellow (Command second)
+color_05: '#25D0B4'    # Blue (Path)
+color_06: '#3BE381'    # Magenta (Syntax var)
+color_07: '#40DDC3'    # Cyan (Prompt)
+color_08: '#8EA4A0'    # White
+
+color_09: '#5A6D6A'    # Bright Black
+color_10: '#55EC94'    # Bright Red (Command error)
+color_11: '#242E2C'    # Bright Green (Exec)
+color_12: '#42524F'    # Bright Yellow
+color_13: '#667A77'    # Bright Blue (Folder)
+color_14: '#88F2E0'    # Bright Magenta
+color_15: '#25D46E'    # Bright Cyan
+color_16: '#A8FFF1'    # Bright White
+
+background: '#18201E'  # Background
+foreground: '#8EA4A0'  # Foreground (Text)
+
+cursor: '#00943E'      # Cursor

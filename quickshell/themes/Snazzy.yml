@@ -1,0 +1,29 @@
+---
+name: 'Snazzy'
+author: ''             # 'AUTHOR NAME (http://WEBSITE.com)'
+author_name: ''
+author_url: ''
+variant: 'dark'            # dark or light
+
+color_01: '#000000'    # Black (Host)
+color_02: '#FC4346'    # Red (Syntax string)
+color_03: '#50FB7C'    # Green (Command)
+color_04: '#F0FB8C'    # Yellow (Command second)
+color_05: '#49BAFF'    # Blue (Path)
+color_06: '#FC4CB4'    # Magenta (Syntax var)
+color_07: '#8BE9FE'    # Cyan (Prompt)
+color_08: '#EDEDEC'    # White
+
+color_09: '#555555'    # Bright Black
+color_10: '#FC4346'    # Bright Red (Command error)
+color_11: '#50FB7C'    # Bright Green (Exec)
+color_12: '#F0FB8C'    # Bright Yellow
+color_13: '#49BAFF'    # Bright Blue (Folder)
+color_14: '#FC4CB4'    # Bright Magenta
+color_15: '#8BE9FE'    # Bright Cyan
+color_16: '#EDEDEC'    # Bright White
+
+background: '#1E1F29'  # Background
+foreground: '#EBECE6'  # Foreground (Text)
+
+cursor: '#E4E4E4'      # Cursor
